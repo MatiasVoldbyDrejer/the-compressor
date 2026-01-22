@@ -19,7 +19,7 @@ A lightweight image compression utility for macOS. Drag and drop images to compr
 
 ## Installation
 
-1. Download the latest DMG from ![thetrench.co](https://www.thetrench.co/the-garage/the-compressor)
+1. Download the latest DMG from [thetrench.co](https://www.thetrench.co/the-garage/the-compressor)
 2. Open the DMG and drag The Compressor to your Applications folder
 3. On first launch, right-click the app and select "Open" (required for unsigned apps)
 
