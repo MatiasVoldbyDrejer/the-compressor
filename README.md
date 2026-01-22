@@ -2,7 +2,7 @@
 
 A lightweight image compression utility for macOS. Drag and drop images to compress them into modern WebP or AVIF formats with adjustable quality settings.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://cdn.prod.website-files.com/683e05dc3ee69d59d825a884/696ec4e420636b4c0d85c084_The%20Compressor%20-%20Drag-and-drop%20your%20files-p-500.webp)
 
 ## Features
 
@@ -19,7 +19,7 @@ A lightweight image compression utility for macOS. Drag and drop images to compr
 
 ## Installation
 
-1. Download the latest DMG from [Releases](../../releases)
+1. Download the latest DMG from ![thetrench.co](https://www.thetrench.co/the-garage/the-compressor)
 2. Open the DMG and drag The Compressor to your Applications folder
 3. On first launch, right-click the app and select "Open" (required for unsigned apps)
 
