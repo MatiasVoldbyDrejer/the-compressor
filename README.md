@@ -27,7 +27,7 @@ A lightweight image compression utility for macOS. Drag and drop images to compr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/the-compressor.git
+   git clone https://github.com/MatiasVoldbyDrejer/the-compressor.git
    cd the-compressor
    ```
 
